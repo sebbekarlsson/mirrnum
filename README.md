@@ -1,5 +1,5 @@
 # Mirrnum
-> The Peculiar Effect Of Substracting Mirrored Numbers.  
+> The Peculiar Effect Of Subtracting Mirrored Numbers.  
 
 ![data.png](data.png)
 
